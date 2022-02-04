@@ -1,4 +1,4 @@
-class pnl():
+class Pnl():
 
     def __init__(self):
         self.money = 100000
